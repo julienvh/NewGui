@@ -1,0 +1,18 @@
+
+{
+	"Emotions" : 
+	{
+		"Happy" : 
+		{
+			"Color" : "100,100,100",
+			"Target X" : "500",
+			"Target Y" : "300"
+		},
+		"Sad" : 
+		{
+			"Color" : "100,100,100",
+			"Target X" : "500",
+			"Target Y" : "300"
+		}
+	}
+}

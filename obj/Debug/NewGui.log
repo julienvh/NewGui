@@ -1,0 +1,34 @@
+﻿  ofApp.cpp
+C:\Users\Lumo\Desktop\Julien\Openframeworks\addons\ofxIO\libs\ofxIO\include\ofx/RecursiveDirectoryIteratorImpl.h(142): warning C4267: 'return': conversion from 'size_t' to 'Poco::UInt16', possible loss of data
+  C:\Users\Lumo\Desktop\Julien\Openframeworks\addons\ofxIO\libs\ofxIO\include\ofx/RecursiveDirectoryIteratorImpl.h(141): note: while compiling class template member function 'Poco::UInt16 ofx::RecursiveDirectoryIteratorImpl<TTravStr>::depthFun(const ofx::RecursiveDirectoryIteratorImpl<TTravStr>::Stack &)'
+          with
+          [
+              TTravStr=ofx::ChildrenFirstTraverse
+          ]
+  C:\Users\Lumo\Desktop\Julien\Openframeworks\addons\ofxIO\libs\ofxIO\include\ofx/RecursiveDirectoryIteratorImpl.h(153): note: see reference to function template instantiation 'Poco::UInt16 ofx::RecursiveDirectoryIteratorImpl<TTravStr>::depthFun(const ofx::RecursiveDirectoryIteratorImpl<TTravStr>::Stack &)' being compiled
+          with
+          [
+              TTravStr=ofx::ChildrenFirstTraverse
+          ]
+  C:\Users\Lumo\Desktop\Julien\Openframeworks\addons\ofxIO\libs\ofxIO\include\ofx/RecursiveDirectoryIteratorImpl.h(152): note: while compiling class template member function 'ofx::RecursiveDirectoryIteratorImpl<TTravStr>::RecursiveDirectoryIteratorImpl(const std::string &,Poco::UInt16)'
+          with
+          [
+              TTravStr=ofx::ChildrenFirstTraverse
+          ]
+  C:\Users\Lumo\Desktop\Julien\Openframeworks\addons\ofxIO\libs\ofxIO\include\ofx/RecursiveDirectoryIterator.h(306): note: see reference to function template instantiation 'ofx::RecursiveDirectoryIteratorImpl<TTravStr>::RecursiveDirectoryIteratorImpl(const std::string &,Poco::UInt16)' being compiled
+          with
+          [
+              TTravStr=ofx::ChildrenFirstTraverse
+          ]
+  C:\Users\Lumo\Desktop\Julien\Openframeworks\addons\ofxIO\libs\ofxIO\include\ofx/RecursiveDirectoryIterator.h(306): note: see reference to class template instantiation 'ofx::RecursiveDirectoryIteratorImpl<TTravStr>' being compiled
+          with
+          [
+              TTravStr=ofx::ChildrenFirstTraverse
+          ]
+  C:\Users\Lumo\Desktop\Julien\Openframeworks\addons\ofxIO\libs\ofxIO\include\ofx/RecursiveDirectoryIterator.h(306): note: while compiling class template member function 'ofx::RecursiveDirectoryIterator<ofx::ChildrenFirstTraverse>::RecursiveDirectoryIterator(const Poco::Path &,Poco::UInt16)'
+  C:\Users\Lumo\Desktop\Julien\Openframeworks\addons\ofxIO\libs\ofxIO\include\ofx/RecursiveDirectoryIterator.h(400): note: see reference to class template instantiation 'ofx::RecursiveDirectoryIterator<ofx::ChildrenFirstTraverse>' being compiled
+     Creating library bin\NewGui_debug.lib and object bin\NewGui_debug.exp
+  NewGui.vcxproj -> C:\Users\Lumo\Desktop\Julien\Openframeworks\apps\myApps\NewGui\bin\NewGui_debug.exe
+  NewGui.vcxproj -> bin\NewGui_debug.pdb (Full PDB)
+  
+  	                   9	C:\Users\Lumo\Desktop\Julien\Openframeworks\export\vs\Win32\

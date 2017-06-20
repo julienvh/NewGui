@@ -1,0 +1,42 @@
+
+{
+	"Emotions" : 
+	[
+		
+		{
+			"Color" : "255,255,255",
+			"Name" : "SLEEP",
+			"Target" : "353,657"
+		},
+		
+		{
+			"Color" : "255,255,255",
+			"Name" : "REST",
+			"Target" : "367,548"
+		},
+		
+		{
+			"Color" : "255,255,255",
+			"Name" : "INTEREST",
+			"Target" : "584,491"
+		},
+		
+		{
+			"Color" : "255,255,255",
+			"Name" : "SCARED",
+			"Target" : "208,396"
+		},
+		
+		{
+			"Color" : "255,255,255",
+			"Name" : "PLAYFUL",
+			"Target" : "534,628"
+		},
+		
+		{
+			"Color" : "255,255,255",
+			"Name" : "ANGRY",
+			"Target" : "419,647"
+		}
+	]
+}
